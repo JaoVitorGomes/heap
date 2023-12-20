@@ -1,0 +1,7 @@
+TestInsert 1 0.00190823
+TestFindMax 0 0
+TestRemoveMax 0 0
+TestMerge 1 0.00158682
+---
+TestFindMax
+TestRemoveMax
